@@ -12,7 +12,7 @@ But why make something like this? what will its usefullness be? what makes it un
 **Answer: I am making this program because I trade on the side and often hear market terms like liquidity, demand, supply, fear, momentum, and volume. This project is my way of experimenting to see whether stock market behaviour must be modeled only through economic rules, or whether it can also be recreated using physics-based particle, basically where or not the behviour of stock market can also emerge from another field set of rules, in this case physics. It's uniqueness comes from trating the stock market as experimental physics system rather than a traditional fiannce model.**
 
 # The essential question I ask before starting any project to help me come up with my Idea
-_______________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________
 
 **- What is the purpose? Why does this project exist?**
 **- What problem is it solving? What pain, confusion, delay, waste, or difficulty can this project solve?**
@@ -23,3 +23,17 @@ ________________________________________________________________________________
 **- What is the simpliest version I can come up with the project, the base, on top of which further things like extra features could be added but the logic remains same?**
 **- What are its core features?**
 **- How will I know if it works?**
+
+# The essential question I ask while working on the actual python coding/project
+____________________________________________________________________________________________________________________________________________________________________________
+
+**- What do I want the program to do? Before the syntax, any libraries, and syntax ask myself what's the goal I want to achieve**
+**- What is the input? What information does my program receive**
+**- What state/data do I need to store? What things my program should remember while running?**
+**- How does my program transform/manipulate the input it's been given? Come up with its logic behaviour**
+**- What will the output be? What should the program show, return, save, or change?**
+**- What tools/libraries will be required?**
+**- What are the main objects/entities in my projects? Bascially the things?**
+**- What are the events that can happen? What action can trigger the changes**
+**- What are the things that can go wrong? What error or cases should I have to prepare myself to handle?**
+**- How will I organize the project? for better readability, conciseness, and easy to understand?**
